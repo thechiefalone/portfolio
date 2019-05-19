@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio page which is created by Bulma CSS Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechiefalone/portfolio.git"
+  },
+  "author": "thechiefalone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thechiefalone/portfolio/issues"
+  },
+  "homepage": "https://github.com/thechiefalone/portfolio#readme",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "express": "^4.17.0"
+  }
+}
